@@ -27,3 +27,8 @@ For more details, please see https://drboolean.gitbooks.io/mostly-adequate-guide
 
 - [treis](https://github.com/raine/treis)
 - [`tap`](http://ramdajs.com/docs/#tap)
+
+# Related
+
+- [inspect-curry](https://github.com/stevemao/inspect-curry)
+- [inspect-compose](https://github.com/stevemao/inspect-compose)
