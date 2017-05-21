@@ -4,7 +4,7 @@
   "description": "Impure trace function to see what's going on in a composition",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test.js"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,8 @@
   "homepage": "https://github.com/stevemao/composition-trace#readme",
   "dependencies": {
     "lodash.curry": "^4.1.1"
+  },
+  "devDependencies": {
+    "tap": "^10.3.2"
   }
 }
