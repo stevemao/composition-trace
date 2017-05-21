@@ -1,7 +1,9 @@
+>  What does this function return?
+
 # Usage
 
 ```js
-const trace = require('trace');
+const trace = require('composition-trace');
 
 var dasherize = compose(join('-'), toLower, trace('after split'), split(' '), replace(/\s{2,}/ig, ' '));
 // after split [ 'The', 'world', 'is', 'a', 'vampire' ]
