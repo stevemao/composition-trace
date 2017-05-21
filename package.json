@@ -1,6 +1,6 @@
 {
   "name": "composition-trace",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Impure trace function to see what's going on in a composition",
   "main": "index.js",
   "scripts": {
