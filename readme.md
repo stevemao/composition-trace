@@ -27,6 +27,7 @@ For more details, please see https://drboolean.gitbooks.io/mostly-adequate-guide
 
 - [treis](https://github.com/raine/treis)
 - [`tap`](http://ramdajs.com/docs/#tap)
+- [`do`](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/operators/do.md)
 
 # Related
 
